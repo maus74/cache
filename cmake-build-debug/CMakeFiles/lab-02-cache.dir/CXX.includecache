@@ -28,33 +28,7 @@ chrono
 set
 -
 
-../include/HardwareData.h
-vector
--
-
 /home/maus/homeworks/iu10/cache/lab-02-cache/sources/Cli.cpp
-Cli.h
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/Cli.h
-
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/Experiment.cpp
-HardwareData.h
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/HardwareData.h
-Cli.h
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/Cli.h
-cmath
--
-chrono
--
-iostream
--
-random
--
-
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/main.cpp
-iostream
--
-HardwareData.h
-/home/maus/homeworks/iu10/cache/lab-02-cache/sources/HardwareData.h
 Cli.h
 /home/maus/homeworks/iu10/cache/lab-02-cache/sources/Cli.h
 
